@@ -1,0 +1,15 @@
+/home/runner/POO-20221/obj/Debug/net6.0/POO-20221.csproj.AssemblyReference.cache
+/home/runner/POO-20221/obj/Debug/net6.0/POO-20221.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/POO-20221/obj/Debug/net6.0/POO-20221.AssemblyInfoInputs.cache
+/home/runner/POO-20221/obj/Debug/net6.0/POO-20221.AssemblyInfo.cs
+/home/runner/POO-20221/obj/Debug/net6.0/POO-20221.csproj.CoreCompileInputs.cache
+/home/runner/POO-20221/bin/Debug/net6.0/POO-20221
+/home/runner/POO-20221/bin/Debug/net6.0/POO-20221.deps.json
+/home/runner/POO-20221/bin/Debug/net6.0/POO-20221.runtimeconfig.json
+/home/runner/POO-20221/bin/Debug/net6.0/POO-20221.dll
+/home/runner/POO-20221/bin/Debug/net6.0/ref/POO-20221.dll
+/home/runner/POO-20221/bin/Debug/net6.0/POO-20221.pdb
+/home/runner/POO-20221/obj/Debug/net6.0/POO-20221.dll
+/home/runner/POO-20221/obj/Debug/net6.0/ref/POO-20221.dll
+/home/runner/POO-20221/obj/Debug/net6.0/POO-20221.pdb
+/home/runner/POO-20221/obj/Debug/net6.0/POO-20221.genruntimeconfig.cache
